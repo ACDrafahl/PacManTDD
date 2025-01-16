@@ -1,3 +1,3 @@
-## Java2DTemplate
+## Pac-Man TDD
 
-This is a simple template I made for making different 2D Java projects using Swing. It's based on a gutted and restructured version of this repository: https://github.com/learncodebygaming/java_2d_game
+I made this repo using my Java 2D template repo. I intend to build Pac-Man from scratch, with a heavy focus on test-driven development (at least as far as TDD is applicable in non-UI elements). 
